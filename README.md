@@ -1,5 +1,5 @@
 ## Mercado
-- O projeto é um mercado virtual que permite interações, tais como: comprar produtos, ver lista de produtos comprados e entre outros
+- O projeto é um mercado virtual que permite interações, tais como: comprar produtos, ver lista de produtos comprados e entre outros;
 - Foi feito utilizando conceitos importantes como orientação a objetos, laços de repetições e estrutura de dados;
 
 ## Funcionalidades
